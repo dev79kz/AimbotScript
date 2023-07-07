@@ -1,8 +1,6 @@
 # AimbotScript
 An External Roblox Aimbot Cheat On Lua 
 
-https://cdn.discordapp.com/attachments/1116397591165403271/1126828982805987369/2Q.jpg
-
 # Configuration File (configuration.json)
 ```json
 {
